@@ -1,3 +1,3 @@
 # repository-demo
 This is my first Git Repository
-Author - Arun Khairwar
+Author - Arun M. Khairwar
